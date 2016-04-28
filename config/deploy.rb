@@ -1,8 +1,8 @@
 # config valid only for current version of Capistrano
 lock '3.3.5'
 
-set :application, 'openvault'
-set :repo_url, 'https://github.com/WGBH/openvault3.git'
+set :application, 'aapb'
+set :repo_url, 'https://github.com/WGBH/AAPB2.git'
 
 set :rails_env, 'production'
 
